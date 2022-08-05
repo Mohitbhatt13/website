@@ -1,0 +1,118 @@
+header nav a i{
+	margin-left: 50px;
+}
+.nav-link{
+	margin-right: 20px;
+}
+.navbar{
+	position: relative;
+}
+.navbar-brand img{
+    height: 100px;
+    padding-left: 50px;
+}
+.carousel-caption{
+	
+	left: 20%;
+	top: 60%;
+}
+ .carousel-inner{
+	transition: all 1s ease-in-out;
+}
+ #aboutus .carousel-inner img{
+	border-radius: 10%;
+}
+#aboutus .carousel-inner:hover img{
+	
+	
+	transition: all 1s fade-in;
+}
+
+.carousel-caption h1{
+	color:white;
+	font-weight: 900;
+	font-size: 80px;
+
+}
+.carousel-caption h5{
+	color: black;
+	font-weight: bolder;
+}
+.carousel-caption p{
+	color: darkcyan;
+	font-weight: bolder;
+}
+span{
+	color: deeppink;
+}
+#aboutus{
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+ #aboutus .carousel-indicators [data-target]{
+	border-radius: 50%;
+	height: 0.65rem;
+	width: 0.65rem;
+	background-color: darkred;
+
+}
+.wrapper{
+	padding-top: 140px;
+}
+.wrapper i{
+	font-size: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 
+}
+.wrapper i:hover{
+	
+}
+.wrapper .col-md-6:hover{
+color: white;
+background-color:#fc518d;
+border-radius: 10%;
+transition: all 1s ease-in-out;
+opacity: 0.8;
+}
+.wrapper .col-md-6:hover i{
+	background-color: black;
+	color: red;
+	transition: all 1s ease-in-out;
+	border-radius: 50px;
+}
+#features img{
+	border-radius: 
+}
+#headphones{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+ #headphones img{
+ 	height: 250px;
+ }
+ #contactus{
+ 	margin-top: 50px;
+ 	margin-bottom: 100px;
+ }
+ input{
+ 	
+ 	border: 1px solid white;
+
+ }
+ .end-section{
+ 	margin-bottom: 80px;
+ }
+ .footer{
+ 	background-color: black;
+ }
+ .footer p{
+ 	color: blue;
+ }
+ .footer-social a i{
+   padding: 0px 30px;
+
+ }
+ .footer-social{
+ 	text-align: right;
+ }
